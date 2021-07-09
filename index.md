@@ -2,122 +2,24 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# 2021
+* [Code motion 2021: From Spring Boot to Quarkus](https://youtu.be/cRaxEXEGkTo?t=12187 )
 
 
-### Definition lists can be used with HTML syntax.
+# 2019
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* [Devoxx 2019: Play an acoustic guitar with a Raspberry Pi](https://www.youtube.com/watch?v=5XhpFtl1Pj0)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+# 2018
+* J-Fall 2018: [Play an acoustic guitar with a Raspberry Pi](https://www.youtube.com/watch?v=8-SkMg9-jcI)
 
-```
-The final element.
-```
+
+
+StaQ Night Aug 2018: Hands-on lab ElasticSearch
+StaQ Conference jun 2018: Hands-on lab ElasticSearch
+Exec(ut) 2018: Digitizing your old 8mm films with a PI -> https://execut.nl/programme/jago-devreede/ (no recording)
+Devoxx 2017: Digitizing your ((grand) dads) old films with a PI -> https://www.youtube.com/watch?v=957cLw3ptwY
+DevCon 2016: ‘Automated Testing of your Angular Front-end’ -> https://www.youtube.com/watch?v=2KvS1KfmWKs
+JavaOne 2014: 'Lessons learned from a large scale Java web app' https://www.parleys.com/tutorial/lessons-learned-from-large-scale-java-web-application
+OSGi DevCon 2014: 'Lessons learned from a large scale OSGi web app'
+OSGi DevCon 2013: 'Lightning talk about Apace Ace' and 'Continuous Automated Deployment with Apache Ace' -> https://www.youtube.com/watch?v=4S_zvgG_MLw
