@@ -4,7 +4,7 @@ layout: default
 Links for the talk point to a recording
 
 # 2021
-* J-Fall: Migrating Java EE to Quarkus (No recoding yet)
+* J-Fall: [Migrating Java EE to Quarkus](https://www.youtube.com/watch?v=nN1iYPFU_1k)
 * Meetup OpenValue: [From Spring Boot to Quarkus](https://www.youtube.com/watch?v=7J6b4KHC-YY) (live coded/ remote)  
 * Codemotion online tech conference: [From Spring Boot to Quarkus](https://youtu.be/cRaxEXEGkTo?t=12187 ) (remote)
 * Meetup OpenValue: [What do you know about Java compiler optimizations?](https://www.youtube.com/watch?v=jDLwQatJ5fc) (remote)
