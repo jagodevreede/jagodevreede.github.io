@@ -3,6 +3,9 @@ layout: default
 ---
 Links for the talk point to a recording
 
+# 2023
+* DevoxxUK: Lessons learned using Machine Learning in Java [slides](https://www.slideshare.net/JagodeVreede1/lessons-learned-using-machine-learning-in-java)
+
 # 2021
 * J-Fall: [Migrating Java EE to Quarkus](https://www.youtube.com/watch?v=nN1iYPFU_1k)
 * Meetup OpenValue: [From Spring Boot to Quarkus](https://www.youtube.com/watch?v=7J6b4KHC-YY) (live coded/ remote)  
