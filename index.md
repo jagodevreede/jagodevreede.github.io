@@ -32,4 +32,4 @@ Links for the talk point to a recording
 * OSGi DevCon: Lessons learned from a large scale OSGi web app
 
 # 2013
-* OSGi DevCon: 'Lightning talk about Apace Ace' and [Continuous Automated Deployment with Apache Ace] (https://www.youtube.com/watch?v=4S_zvgG_MLw)
+* OSGi DevCon: 'Lightning talk about Apace Ace' and [Continuous Automated Deployment with Apache Ace](https://www.youtube.com/watch?v=4S_zvgG_MLw)
