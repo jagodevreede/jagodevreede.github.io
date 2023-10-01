@@ -11,7 +11,7 @@ Links for the talk point to a recording
 * Meetup RotterdamJug: Lessons learned using Machine Learning in Java
 * Internal Meetup Leeuwarden: Lessons learned using Machine Learning in Java (shortened)
 * Meetup ArnhemJug: Lessons learned using Machine Learning in Java
-* DevoxxUK: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=l5_GqcMLTFg) [slides](https://www.slideshare.net/JagodeVreede1/lessons-learned-using-machine-learning-in-java) 
+* DevoxxUK: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=l5_GqcMLTFg) [slides](https://www.slideshare.net/JagodeVreede1/lessons-learned-using-machine-learning-in-java) <!-- https://www.devoxx.co.uk/talk/?id=7030 -->
 * Meetup Utrecht: Lessons learned using Machine Learning in Java
 
 # 2021
