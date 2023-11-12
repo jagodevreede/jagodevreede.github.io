@@ -1,17 +1,15 @@
 ---
 layout: default
 ---
-Links for the talk point to a recording
-
-# Planned
-* NL-Jug: Lessons learned using Machine Learning in Java <!-- https://jfall.nl/speakers-2023/ -->
-* DevoxxBe: Lessons learned using Machine Learning in Java <!-- https://devoxx.be/talk/?id=42017 -->
+Links point to a recording
 
 # 2023
+* NL-Jug: Lessons learned using Machine Learning in Java [slides](https://www.slideshare.net/JagodeVreede1/javamllegojfall) <!-- https://jfall.nl/speakers-2023/ -->
+* DevoxxBe: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=QwJ5-8wdheg) [slides](https://www.slideshare.net/JagodeVreede1/javamllegodevoxxbe) Rated 4.0 / 5.00 <!-- https://devoxx.be/talk/?id=42017 -->
 * Meetup RotterdamJug: Lessons learned using Machine Learning in Java <!-- https://www.meetup.com/nl-NL/rotterdamjug/events/295778651/ -->
 * Internal Meetup Leeuwarden: Lessons learned using Machine Learning in Java (shortened)
 * Meetup ArnhemJug: Lessons learned using Machine Learning in Java <!-- https://www.meetup.com/nl-NL/arnhemjug/events/293720100/ -->
-* DevoxxUK: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=l5_GqcMLTFg) [slides](https://www.slideshare.net/JagodeVreede1/lessons-learned-using-machine-learning-in-java) <!-- https://www.devoxx.co.uk/talk/?id=7030 -->
+* DevoxxUK: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=l5_GqcMLTFg) [slides](https://www.slideshare.net/JagodeVreede1/lessons-learned-using-machine-learning-in-java) Rated 4.09 / 5.00 <!-- https://www.devoxx.co.uk/talk/?id=7030 -->
 * Meetup Utrecht: Lessons learned using Machine Learning in Java <!-- https://www.meetup.com/nl-NL/openvalue/events/292063462/ -->
 
 # 2021
