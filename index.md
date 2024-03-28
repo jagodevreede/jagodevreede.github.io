@@ -14,7 +14,7 @@ Links point to a recording
 * Meetup Dusseldorf: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=YE-1ybhXhyM) <!-- https://www.meetup.com/nl-NL/openvalue-dusseldorf/events/299100222 -->
 
 # 2023
-* NL-Jug: Lessons learned using Machine Learning in Java [slides](https://www.slideshare.net/JagodeVreede1/javamllegojfall) <!-- https://jfall.nl/speakers-2023/ -->
+* NL-Jug: Lessons learned using Machine Learning in Java [slides](https://www.slideshare.net/JagodeVreede1/javamllegojfall) Rated 4,56 / 5.00 <!-- https://jfall.nl/speakers-2023/ -->
 * DevoxxBe: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=QwJ5-8wdheg) [slides](https://www.slideshare.net/JagodeVreede1/javamllegodevoxxbe) Rated 4.0 / 5.00 <!-- https://devoxx.be/talk/?id=42017 -->
 * Meetup RotterdamJug: Lessons learned using Machine Learning in Java <!-- https://www.meetup.com/nl-NL/rotterdamjug/events/295778651/ -->
 * Internal Meetup Leeuwarden: Lessons learned using Machine Learning in Java (shortened)
