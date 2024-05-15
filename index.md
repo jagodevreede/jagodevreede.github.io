@@ -5,16 +5,18 @@ Links point to a recording
 
 # Planned
 * DevDays: Lessons learned using Machine Learning in Java
-* DevoxxUK: Spring Boot vs Quarkus the ultimate battle!
-* JavaLand: Lessons learned using Machine Learning in Java
+* J-Spring: Quiz: What do you know about Java compiler optimizations?
 
 # 2024
+* DevoxxUK: [Spring Boot vs Quarkus the ultimate battle!](https://www.youtube.com/watch?v=ujGG3i3MUF0) Rated 4,59 / 5.00 <!-- https://www.devoxx.co.uk/talk/?id=25738 -->
+* Rotterdam University of Applied Sciences: Lessons learned using Machine Learning in Java 
+* JavaLand: Lessons learned using Machine Learning in Java <!-- https://meine.doag.org/events/javaland/2024/agenda/#eventDay.1712700000 -->
 * Meetup Utrecht: Spring Boot vs Quarkus the ultimate battle! <!-- https://www.meetup.com/nl-NL/openvalue/events/299555817/ -->
 * Internal Lunch&Learn Utrecht: Semantic versioning of Java project
 * Meetup Dusseldorf: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=YE-1ybhXhyM) <!-- https://www.meetup.com/nl-NL/openvalue-dusseldorf/events/299100222 -->
 
 # 2023
-* NL-Jug: Lessons learned using Machine Learning in Java [slides](https://www.slideshare.net/JagodeVreede1/javamllegojfall) Rated 4,56 / 5.00 <!-- https://jfall.nl/speakers-2023/ -->
+* J-Fall: Lessons learned using Machine Learning in Java [slides](https://www.slideshare.net/JagodeVreede1/javamllegojfall) Rated 4,56 / 5.00 <!-- https://jfall.nl/speakers-2023/ -->
 * DevoxxBe: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=QwJ5-8wdheg) [slides](https://www.slideshare.net/JagodeVreede1/javamllegodevoxxbe) Rated 4.0 / 5.00 <!-- https://devoxx.be/talk/?id=42017 -->
 * Meetup RotterdamJug: Lessons learned using Machine Learning in Java <!-- https://www.meetup.com/nl-NL/rotterdamjug/events/295778651/ -->
 * Internal Meetup Leeuwarden: Lessons learned using Machine Learning in Java (shortened)
