@@ -3,11 +3,10 @@ layout: default
 ---
 Links point to a recording
 
-# Planned
-* DevDays: Lessons learned using Machine Learning in Java
-* J-Spring: Quiz: What do you know about Java compiler optimizations?
-
 # 2024
+* J-Spring: Quiz: What do you know about Java compiler optimizations?
+* Meetup Utrecht: Quiz: What do you know about Java compiler optimizations? <!-- https://www.meetup.com/nl-NL/openvalue/events/300867711/ -->
+* DevDays: Lessons learned using Machine Learning in Java Rated Green: 95.2% Yellow: 4.8% Red: 0% <!-- https://events.pinetool.ai/3152/#sessions/104792?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions -->
 * DevoxxUK: [Spring Boot vs Quarkus the ultimate battle!](https://www.youtube.com/watch?v=ujGG3i3MUF0) Rated 4,59 / 5.00 <!-- https://www.devoxx.co.uk/talk/?id=25738 -->
 * Rotterdam University of Applied Sciences: Lessons learned using Machine Learning in Java 
 * JavaLand: Lessons learned using Machine Learning in Java <!-- https://meine.doag.org/events/javaland/2024/agenda/#eventDay.1712700000 -->
