@@ -4,7 +4,8 @@ layout: default
 Links point to a recording
 
 # 2024
-* J-Spring: Quiz: What do you know about Java compiler optimizations?
+* DevoxxBe: Quiz: What do you know about Java compiler optimizations? Rated 4.67 / 5.00 <!-- https://devoxx.be/talk/quiz-what-do-you-know-about-java-compiler-optimizations-/ -->
+* J-Spring: Quiz: (What do you know about Java compiler optimizations?)[https://www.youtube.com/watch?v=uqU6iVBxDu4]
 * Meetup Utrecht: Quiz: What do you know about Java compiler optimizations? <!-- https://www.meetup.com/nl-NL/openvalue/events/300867711/ -->
 * DevDays: Lessons learned using Machine Learning in Java Rated Green: 95.2% Yellow: 4.8% Red: 0% <!-- https://events.pinetool.ai/3152/#sessions/104792?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions -->
 * DevoxxUK: [Spring Boot vs Quarkus the ultimate battle!](https://www.youtube.com/watch?v=ujGG3i3MUF0) Rated 4,59 / 5.00 <!-- https://www.devoxx.co.uk/talk/?id=25738 -->
