@@ -40,7 +40,7 @@ Links point to a recording
 * Exec(ut): [Digitizing your old 8mm films with a PI](https://www.youtube.com/watch?v=5HFP4ngz4R0)
 
 # 2017
-* Devoxx BE: [Digitizing your ((grand) dads) old films with a PI](https://www.youtube.com/watch?v=957cLw3ptwY)
+* Devoxx BE: [Digitizing your ((grand) dads) old films with a PI](https://www.youtube.com/watch?v=957cLw3ptwY) Rated 4.43 / 5.00 <!-- (ratings 23). -->
 
 # 2016
 * DevCon: [Automated Testing of your Angular Front-end](https://www.youtube.com/watch?v=2KvS1KfmWKs)
