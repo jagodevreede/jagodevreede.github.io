@@ -3,6 +3,13 @@ layout: default
 ---
 Links point to a recording
 
+# Upcoming
+* DevoxxUK: Building a Multiplatform SDKMAN in JavaFX 
+* JavaOne: Building a Multiplatform SDKMAN in JavaFX <!-- https://reg.rf.oracle.com/flow/oracle/javaone25/catalog/page/catalog/session/1728227349663001Wod9 --> 
+
+# 2025
+* BrabantJug: Building a Multiplatform SDKMAN in JavaFX <!-- https://www.meetup.com/brabant-jug/events/305971091/ -->
+
 # 2024
 * DevoxxBe: Quiz: What do you know about Java compiler optimizations? Rated 4.67 / 5.00 <!-- https://devoxx.be/talk/quiz-what-do-you-know-about-java-compiler-optimizations-/ -->
 * J-Spring: Quiz: [What do you know about Java compiler optimizations?](https://www.youtube.com/watch?v=uqU6iVBxDu4)
