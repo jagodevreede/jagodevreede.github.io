@@ -3,18 +3,19 @@ layout: default
 ---
 Links point to a recording
 
-# Upcoming
-* DevoxxUK: Building a Multiplatform SDKMAN in JavaFX 
-* JavaOne: Building a Multiplatform SDKMAN in JavaFX <!-- https://reg.rf.oracle.com/flow/oracle/javaone25/catalog/page/catalog/session/1728227349663001Wod9 --> 
 
 # 2025
+* DevoxxPolen: 3 years of Quarkus in production, what have we learned? <!-- https://devoxx.pl/talk-details/?id=9196 -->
+* JCon: Java developer-friendly frontends: Build UIs without the JavaScript hassle <!-- https://schedule.jcon.one/2025/session/780610/ -->
+* DevoxxUK: [Building a Multiplatform SDKMAN in JavaFX](https://www.youtube.com/watch?v=9eQVlzH215Y)
+* JavaOne: [Building a Multiplatform SDKMAN in JavaFX](https://www.youtube.com/watch?v=qUoUG8wRTDQ) <!-- https://reg.rf.oracle.com/flow/oracle/javaone25/catalog/page/catalog/session/1728227349663001Wod9 -->
 * BrabantJug: Building a Multiplatform SDKMAN in JavaFX <!-- https://www.meetup.com/brabant-jug/events/305971091/ -->
 
 # 2024
 * DevoxxBe: Quiz: What do you know about Java compiler optimizations? Rated 4.67 / 5.00 <!-- https://devoxx.be/talk/quiz-what-do-you-know-about-java-compiler-optimizations-/ -->
 * J-Spring: Quiz: [What do you know about Java compiler optimizations?](https://www.youtube.com/watch?v=uqU6iVBxDu4)
 * Meetup Utrecht: Quiz: What do you know about Java compiler optimizations? <!-- https://www.meetup.com/nl-NL/openvalue/events/300867711/ -->
-* DevDays: Lessons learned using Machine Learning in Java Rated Green: 95.2% Yellow: 4.8% Red: 0% <!-- https://events.pinetool.ai/3152/#sessions/104792?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions -->
+* DevDays: [Lessons learned using Machine Learning in Java](https://www.youtube.com/watch?v=kQ38XidZ9rQ) Rated Green: 95.2% Yellow: 4.8% Red: 0% <!-- https://events.pinetool.ai/3152/#sessions/104792?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions -->
 * DevoxxUK: [Spring Boot vs Quarkus the ultimate battle!](https://www.youtube.com/watch?v=ujGG3i3MUF0) Rated 4,59 / 5.00 <!-- https://www.devoxx.co.uk/talk/?id=25738 -->
 * Rotterdam University of Applied Sciences: Lessons learned using Machine Learning in Java 
 * JavaLand: Lessons learned using Machine Learning in Java <!-- https://meine.doag.org/events/javaland/2024/agenda/#eventDay.1712700000 -->
