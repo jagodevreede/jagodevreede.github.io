@@ -6,7 +6,7 @@ Links point to a recording
 
 # 2025
 * DevoxxPolen: 3 years of Quarkus in production, what have we learned? <!-- https://devoxx.pl/talk-details/?id=9196 -->
-* JCon: Java developer-friendly frontends: Build UIs without the JavaScript hassle <!-- https://schedule.jcon.one/2025/session/780610/ -->
+* JCon: [Java developer-friendly frontends: Build UIs without the JavaScript hassle](https://www.youtube.com/watch?v=voxFwPkVgPA) <!-- https://schedule.jcon.one/2025/session/780610/ -->
 * DevoxxUK: [Building a Multiplatform SDKMAN in JavaFX](https://www.youtube.com/watch?v=9eQVlzH215Y)
 * JavaOne: [Building a Multiplatform SDKMAN in JavaFX](https://www.youtube.com/watch?v=qUoUG8wRTDQ) <!-- https://reg.rf.oracle.com/flow/oracle/javaone25/catalog/page/catalog/session/1728227349663001Wod9 -->
 * BrabantJug: Building a Multiplatform SDKMAN in JavaFX <!-- https://www.meetup.com/brabant-jug/events/305971091/ -->
