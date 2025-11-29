@@ -5,6 +5,7 @@ Links point to a recording
 
 
 # 2025
+* J-Fall: Java developer-friendly frontends: Build UIs without the JavaScript hassle <!-- https://jfall.nl/timetable-2025/ -->
 * DevoxxPolen: 3 years of Quarkus in production, what have we learned? <!-- https://devoxx.pl/talk-details/?id=9196 -->
 * JCon: [Java developer-friendly frontends: Build UIs without the JavaScript hassle](https://www.youtube.com/watch?v=voxFwPkVgPA) <!-- https://schedule.jcon.one/2025/session/780610/ -->
 * DevoxxUK: [Building a Multiplatform SDKMAN in JavaFX](https://www.youtube.com/watch?v=9eQVlzH215Y)
