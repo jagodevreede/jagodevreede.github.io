@@ -3,6 +3,16 @@ layout: default
 ---
 Links point to a recording
 
+# Upcomming
+* JavaZone: Managing the chaos: Automating internal dependency upgrades with OpenRewrite
+
+# 2026
+* jNation: [3 years of Quarkus in production, what have we learned?](https://www.youtube.com/watch?v=xn3QChVV6zU)
+* j-Spring: 3 years of Quarkus in production, what have we learned? <!-- https://jspring.nl/timetable-2026/ --> 
+* Meetup OpenValue Düsseldorf: [3 years of Quarkus in production, what have we learned?](https://www.youtube.com/watch?v=Ikj-1PDoPEY)
+* JCon: [3 years of Quarkus in production, what have we learned?](https://www.youtube.com/watch?v=nm23hS5N6tU)
+* Meetup Java Eindhoven: 3 years of Quarkus in production, what have we learned? (sort format) <!-- https://luma.com/pb5zmwyk -->
+* Meetup JUGNoord: 3 years of Quarkus in production, what have we learned? <!-- www.meetup.com/jug-noord/events/313792690 -->
 
 # 2025
 * J-Fall: Java developer-friendly frontends: Build UIs without the JavaScript hassle <!-- https://jfall.nl/timetable-2025/ -->
